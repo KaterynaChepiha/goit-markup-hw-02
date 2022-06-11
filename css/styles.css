@@ -35,7 +35,7 @@ body {
     font-family: Raleway, sans-serif;
     font-weight: 700;
     font-size: 26px;
-    line-height: 0.83;
+    line-height: 1.19;
 }
 
 .site-nav .link,
@@ -43,7 +43,7 @@ body {
     color: var(--text-color);
 
     font-weight: 500;
-    line-height: 0.87;
+    line-height: 1.14;
     letter-spacing: 0.02em;
 }
 
@@ -90,13 +90,13 @@ body {
     color: var(--text-color);
     font-weight: 700;
     font-size: 36px;
-    line-height: 0.86;
+    line-height: 1.16;
     text-align: center;
 }
 
 .features-title {
     font-weight: 700;
-    line-height: 0.87;
+    line-height: 1.14;
     text-transform: uppercase;
 }
 
@@ -110,13 +110,13 @@ body {
 .team-text {
     color: #757575;
     font-size: 16px;
-    line-height: 0.84;
+    line-height: 1.19;
 }
 
 .team-title {
     font-weight: 500;
     font-size: 16px;
-    line-height: 0.84;
+    line-height: 1.19;
 }
 
 /* Footer */
