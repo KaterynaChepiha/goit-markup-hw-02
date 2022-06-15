@@ -57,6 +57,10 @@ body {
     letter-spacing: 0.02em;
 }
 
+.auth-nav .link {
+    color: var(--paragraph-color);
+}
+
 .site-nav .studio {
     color: var(--brand-color)
 }
